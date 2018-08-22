@@ -1,4 +1,4 @@
-## Minimum Settings for a Webmap
+## Minimum Configuration Settings for a Lizmap based Web Map
 
 [go back to main page](README.md)
 
