@@ -4,9 +4,17 @@
 
 [Adding tools to Lizmap based web maps](tools.md)
 
+[Adding and working with Data View](dataview.md)
+
 [Minimum Settings of a Lizmap based web map](min_settings.md)
 
 [Steps for publishing a web map via Lizmap](publishing_map.md)
+
+[Tips and tricks](notes.md)
+
+[Troubleshooting, debugging no show maps](troubleshooting.md)
+
+
 
 ## Using QGIS - QGIS Server - Lizmap Client
 
