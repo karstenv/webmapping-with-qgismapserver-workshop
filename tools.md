@@ -104,7 +104,7 @@ For the prerequisites, see Prerequisite_QGIS_steps
 
 ![Enabling Lizamp plugin](images/Enabling_Lizamp_plugin.png)
 
-![locate by layer steps on lizmap](images/locate_by_layer_steps_lizmap.png)
+![locate by layer steps lizmap](images/locate_by_layer_steps_on_lizmap.png)
 
 ![Prerequisit_QGIS_steps](images/Prerequisit_QGIS_steps.png)
 
