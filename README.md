@@ -1,5 +1,7 @@
 # Web GIS Workshop Materials
 
+[Live Web Maps published during the workshop](http://ws2018.terragis.net/lm33)
+
 ## Table of Content
 
 [Using QGIS - QGIS Server - Lizmap Client](#using-qgis---qgis-server---lizmap-client)
