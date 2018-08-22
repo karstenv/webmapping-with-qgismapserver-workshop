@@ -65,9 +65,20 @@ c) In the window that opens choose:
 
    v) Select any of the descriptive statistic parameter; stddev, avg, mean, etc, if applicable
 
-__Example of Bar Plot__
+__Examples of Bar Plots__
 
 ![dataviz2](images/dataviz2.png)
+
+[Kenya Protected Areas - Live Map](http://ws2018.terragis.net/lm33/index.php/view/map/?repository=ccrpws&project=kenya&layers=000000000BTTTTFT&bbox=1918852.942147%2C-850291.240807%2C6216448.419855%2C905925.920828&crs=EPSG%3A3857&layerStyles=Major_Towns%3Atown%20blue%3BProtected_Areas%3A%3BDistrict_Boundaries%3A)
+
+__Bar Plot__
+![dataviz3](images/dataviz3.png)
+
+__Settings in Lizmap Window__
+
+![dataviz4](images/dataviz4.png)
+
+
 
 ## Locate by Layer
 
