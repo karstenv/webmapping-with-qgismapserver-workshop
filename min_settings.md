@@ -1,5 +1,7 @@
 ## Minimum Settings for a Webmap
 
+[go back to main page](README.md)
+
 Three files are needed to publish a web map using QGIS and Lizmap plugin;
 	a. ProjectName.qgs			% this is the QGIS Project File
 	b. ProjectName.qgs.cfg		% this is generated using Lizmap 
@@ -57,6 +59,29 @@ Three files are needed to publish a web map using QGIS and Lizmap plugin;
 A preview of the map is also needed when publishing a webmap, this comes in the form of a *.png file
 Simple take a screen shot of the map and crop it in paint then save as ProjectName.qgs.png
 
+![ows_3](images/ows_3.png)
 
+![projectproperties](images/projectproperties.png)
 
+![crs](images/crs.png)
+
+![ows_1](images/ows_1.png)
+
+![ows_2](images/ows_2.png)
+
+![plugin1](images/plugin1.png)
+
+![plugin2](images/plugin2.png)
+
+![plugin3](images/plugin3.png)
+
+![plugin4](images/plugin4.png)
+
+![plugin5](images/plugin5.png)
+
+![plugin6](images/plugin6.png)
+
+![plugin7](images/plugin7.png)
+
+![plugin8](images/plugin8.png)
 		
