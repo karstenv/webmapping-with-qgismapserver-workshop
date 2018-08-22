@@ -1,5 +1,7 @@
 # Working with Tools
 
+[back to main page](read.md)
+
 # How to add tools in a Lizmap map
 
 ## Identify and Popup tool
