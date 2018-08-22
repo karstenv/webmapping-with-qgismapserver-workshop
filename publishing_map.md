@@ -1,8 +1,8 @@
-# STEPS TO PUBLISHING A WEB MAP
+# Steps for Publishing a Web Map
 
 [go back to main page](README.md)
 
-## 1. QGIS DESKTOP (Client Side)
+## QGIS DESKTOP (Client Side)
 
 - Prepare a qgis project and do the required styling.
 - Do the minimum settings in project properties and save your project in your desired file directory as a *.qgs file. Example rivers.qgs
@@ -12,13 +12,15 @@
  This settings in Liz Map yield the *.qgis.cfg file which is saved in the same directory as the *.qgs file.
  The *qgis.cfg is a configuration file which defines which and how elements will be displayed on the web map.
  
-## 2. Prepare a *.qgis.png file. This can be created using any graphics creation software. An examples is Ms Paint, or a simple screen shot using the snipping tool in windows.
+ - Prepare a *.qgis.png file. This can be created using any graphics creation software. An examples is Ms Paint, or a simple screen shot using the snipping tool in windows.
    The name of this image needs to correspond to the qgis project file. For example, if the project file is named rivers.qgs, the image file should be named as rivers.qgs.png.
    You can other image file formats like .jpg. .jpeg, .gif e.t.c.
 
-## 3. Server Side
+## Server Side
 
- Transfer the files (*.qgs, *.qgs.cfg, *.qgs.png) to the Lizmap web server for publishing.
+[back to page top](#steps-for-publishing-a-web-map)
+
+Transfer the files (*.qgs, *.qgs.cfg, *.qgs.png) from your machine to the Lizmap web server for publishing (using a secure FTP program, e.g. WinSCP on Windows).
 
 N/B - The file structure in QGIS client side should be the same as the structure in the Liz Map web server. 
     - In the event of a mismatch, the structure may be re-organized in the server side.
