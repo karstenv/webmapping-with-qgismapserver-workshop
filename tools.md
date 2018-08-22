@@ -92,4 +92,35 @@ For the prerequisites, see Prerequisite_QGIS_steps
 
 See picture: Tooltip_ steps_on_Lizmap_plugin
 
+### ADDING BASE LAYERS
+
+To add base map layers to the map, one needs to have the qgs project
+On the lizmap plugin, select the baselayers tab.
+
+Under the baselayers tab, Base maps from different sources are available. These are: 
+Open Street Map – OSM Mapnik and OSM Stamen Toner
+Bing Maps – Streets, Satellite, Hybrid and Terrain.
+Google Maps - Streets, Satellite and Hybrid.  
+IGN (France) – Plan, Satellite, Streets and Cadastre. 
+
+AVAILABLE BASE LAYERS
+In order to access the Google, Bing and IGN maps, you will need an api-key (application programming interface - key). 
+This key gives access to a single map that allows the user to load base maps from these sources. 
+As for the Open Street Maps layers, an api-key is not required.
+
+The base layers are selected as shown in the figure below.
+After selecting the required basemap(s), apply and save edits on the qgs project. 
+
+![Basemap1](images/Basemap1.png)
+
+![Basemap2](images/Basemap2.png)
+
+### Adding MEASURE TOOL 
+
+On the Lizmap plugin, select the Map options tab 
+Under the map tools select the measure tool which enables measurement in the map (Length, Area and Perimeter)
+Apply and close the plugin 
+Save edits in qgs project.
+
+![Measure_tool](images/Measure_tool.png)
 
