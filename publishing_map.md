@@ -1,5 +1,7 @@
 # STEPS TO PUBLISHING A WEB MAP
 
+[go back to main page](README.md)
+
 ## 1. QGIS DESKTOP (Client Side)
 
 - Prepare a qgis project and do the required styling.
