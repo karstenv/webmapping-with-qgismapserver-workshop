@@ -4,7 +4,7 @@
 
 [create an anchor](#Print-tool) 
 
-[create an anchor](#data-visualization-tool)
+[Data Viz](#data-visualization-tool)
 
 [create an anchor](#Locate-by-Layer) 
 
