@@ -8,8 +8,8 @@ __CCRP Web GIS Workshop Materials__
    * HTTP Server e.g. Apache2
    * PHP (version 5 or 7)
    * QGIS Server (and related libraries)
-   The version of the Desktop QGIS and the QGIS Server need to be the same to avoid unexpected or even not working results. On Ubuntu for QGIS Server 2.18 LTS the minimum requirement operating system version is [Ubuntu 16 (Xenial Xerus)]http://releases.ubuntu.com/16.04/
-
+   
+   The version of the Desktop QGIS and the QGIS Server need to be the same to avoid unexpected or even not working results. On Ubuntu for QGIS Server 2.18 LTS the minimum requirement operating system version is [Ubuntu 16 (Xenial Xerus)](http://releases.ubuntu.com/16.04)
  
 ### Installation Documentation 
 
