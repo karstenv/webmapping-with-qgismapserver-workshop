@@ -4,6 +4,8 @@
 
 [Using QGIS - QGIS Server - Lizmap Client](#using-qgis---qgis-server---lizmap-client)
 
+[Server Prerequisites](#server-prerequisites)
+
 [Adding tools to Lizmap based web maps](tools.md)
 
 [Adding and working with Data View](dataview.md)
