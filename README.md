@@ -2,6 +2,8 @@
 
 ## Table of Content
 
+[Using QGIS - QGIS Server - Lizmap Client](#using-qgis---qgis-server---lizmap-client)
+
 [Adding tools to Lizmap based web maps](tools.md)
 
 [Adding and working with Data View](dataview.md)
