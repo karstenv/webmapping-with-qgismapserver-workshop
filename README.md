@@ -63,9 +63,92 @@ The version of the Desktop QGIS and the QGIS Server needs to be the same to avoi
 
 [Lizmap Installation](https://docs.3liz.com/en/install/windows.html)
 
-### Troubleshooting Installation
+## Troubleshooting Installation
 
-To be added.
+* QGISMapserver print did not work
+copied from http://www.itopen.it/qgis-server-setup-notes/
+
+__X dependency__
+
+The most important is probably the xorg requirement that Qt libs have when rendering to PDF, this is an undocumented requirement and the fix is not trivial.
+Basically, your server needs an X server running, a fake X server like Xfvb will do (xvfb – Virtual Framebuffer ‘fake’ X server), you can easily install this package in debian/ubuntu with:
+
+vfb needs a startup script, I’ve found a good one here: https://gist.github.com/dloman/8303932
+Since a configurable display number is needed (here set to 99), I’ve adapted the script setting display to 99:
+----------
+    #!/bin/sh
+    ### BEGIN INIT INFO
+    # Provides: Xvfb
+    # Required-Start: $local_fs $remote_fs
+    # Required-Stop:
+    # X-Start-Before:
+    # Default-Start: 2 3 4 5
+    # Default-Stop: 0 1 6
+    # Short-Description: Loads X Virtual Frame Buffer
+    ### END INIT INFO
+     
+    XVFB=/usr/bin/Xvfb
+    XVFBARGS=":99 -screen 0 1024x768x24 -ac +extension GLX +render -noreset"
+    PIDFILE=/var/run/xvfb.pid
+    case "$1" in
+      start)
+        echo -n "Starting virtual X frame buffer: Xvfb"
+        start-stop-daemon --start --quiet --pidfile $PIDFILE --make-pidfile --background --exec $XVFB -- $XVFBARGS
+        echo "."
+        ;;
+      stop)
+        echo -n "Stopping virtual X frame buffer: Xvfb"
+        start-stop-daemon --stop --quiet --pidfile $PIDFILE
+        echo "."
+        ;;
+      restart)
+        $0 stop
+        $0 start
+        ;;
+      *)
+            echo "Usage: /etc/init.d/xvfb {start|stop|restart}"
+            exit 1
+    esac
+     
+    exit 0
+--------------
+
+Install it with:
+    chmod +x /etc/init.d/xvfb
+    update-rc.d xvfb defaults
+    
+then
+/etc/init.d/xvfb start
+
+
+in trusty as a service :
+
+as /etc/init/xvfb.conf:
+-----------------
+description     "Xvfb X Server"
+start on (net-device-up
+    and local-filesystems
+    and runlevel [2345])
+stop on runlevel [016]
+exec /usr/bin/Xvfb :99 -screen 0 1024x768x24
+
+---------------
+service xvfb start
+
+used the info from https://gist.github.com/jterrace/2911875
+with these settings below
+      
+      /etc/init.d/xvfb start
+      export DISPLAY=:0
+
+Fast CGI needs an environment variable DISPLAY having the same display number (99), I’ve adapted the fcgid configuration accordingly:
+    $ cat /etc/apache2/mods-enabled/fcgid.conf 
+     
+      AddHandler    fcgid-script .fcgi
+      FcgidConnectTimeout 20
+      # Pass display number to QGIS MapServer instances
+      FcgidInitialEnv DISPLAY ":99"
+
 
 ## Working with Lizmap Client
 
