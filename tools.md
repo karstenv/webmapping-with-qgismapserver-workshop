@@ -65,6 +65,9 @@ c) In the window that opens choose:
 
    v) Select any of the descriptive statistic parameter; stddev, avg, mean, etc, if applicable
 
+__Example of Bar Plot__
+
+![dataviz2](images/dataviz2.png)
 
 ## Locate by Layer
 
