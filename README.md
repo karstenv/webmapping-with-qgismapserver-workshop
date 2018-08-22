@@ -75,6 +75,7 @@ Basically, your server needs an X server running, a fake X server like Xfvb will
 
 vfb needs a startup script, I’ve found a good one here: https://gist.github.com/dloman/8303932
 Since a configurable display number is needed (here set to 99), I’ve adapted the script setting display to 99:
+
 ----------
     #!/bin/sh
     ### BEGIN INIT INFO
@@ -124,6 +125,7 @@ then
 in trusty as a service :
 
 as /etc/init/xvfb.conf:
+
 -----------------
 description     "Xvfb X Server"
 start on (net-device-up
