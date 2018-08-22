@@ -4,7 +4,7 @@
 
 * QGIS Desktop
 
-Need to have Lizmap (python) Plug-in installed to create a configuration file (*.cfg). This file is a text file that the Lizmap-Client on the Server will read in order to dynamically create the Web Map.
+The Lizmap (python) Plug-in needs to be installed in order to create lizmap configuration files (*.cfg) for a web map. This file is a text file that the Lizmap-Client on the Server will read in order to dynamically create the Web Map. 
 
 Lizmap Client
 
