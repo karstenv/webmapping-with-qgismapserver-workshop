@@ -1,5 +1,20 @@
 # Web GIS Workshop Materials
 
+## Using QGIS - QGIS Server - Lizmap Client
+
+* QGIS Desktop
+
+Need to have Lizmap (python) Plug-in installed to create a configuration file (*.cfg). This file is a text file that the Lizmap-Client on the Server will read in order to dynamically create the Web Map.
+
+Lizmap Client
+
+This is a software that is installed on the Server and is based on a collection of PHP scripts. Having configured relevant settings in teh QGIS project (savbed to the map document *.qgs) in connection with the lizmap configuration file (*.cfg) dynamically create the Web Map.
+
+
+QGIS Server
+
+
+
 ## Server Prerequisites
 
 * Software that need to be installed
