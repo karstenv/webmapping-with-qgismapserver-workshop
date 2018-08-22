@@ -17,6 +17,8 @@
 
 ## Identify and Popup tool
 
+[back to page top](#working-with-tools)
+
 In QGIS desktop with a loaded map, click on Project Properties/Identify Layers
 * Check the layers you want to be used in the web map for identity
 * Apply and save your work
@@ -26,6 +28,8 @@ In QGIS desktop with a loaded map, click on Project Properties/Identify Layers
 ![identify2](images/identify2.png)
 
 ## Print tool
+
+[back to page top](#working-with-tools)
 
 * Add a map layout in QGIS desktop
 * Open Lizmap window and check the Print box under the maps tool
@@ -38,6 +42,8 @@ In QGIS desktop with a loaded map, click on Project Properties/Identify Layers
 
 
 ## Data Visualization Tool
+
+[back to page top](#working-with-tools)
 
 When QGIS Project is set for web mapping or Publishing
 
@@ -54,6 +60,8 @@ v) Select any of the descriptive statistic parameter; stddev, avg, mean, etc, if
 
 
 ## Locate by Layer
+
+[back to page top](#working-with-tools)
 
 ### Documentation on enabling/activating the Locate by layer and Tooltip 
 
@@ -104,6 +112,8 @@ See picture: Tooltip_ steps_on_Lizmap_plugin
 
 ### Adding Base Layers
 
+[back to page top](#working-with-tools)
+
 To add base map layers to the map, one needs to have the qgs project
 On the lizmap plugin, select the baselayers tab.
 
@@ -126,6 +136,8 @@ After selecting the required basemap(s), apply and save edits on the qgs project
 ![Basemap2](images/Basemap2.png)
 
 ### Adding Measure Tool
+
+[back to page top](#working-with-tools)
 
 On the Lizmap plugin, select the Map options tab 
 Under the map tools select the measure tool which enables measurement in the map (Length, Area and Perimeter)
