@@ -16,7 +16,9 @@ optionally a third file can be created in order to identify the web map in the m
 1. Launch QGIS
 2. Create a QGIS project
 3. Define Project properties as listed below:
+
    a. Under project Menu select Project Properties, the Project properties dialog box appears (Project Properties)
+   
    b. Under General Settings, Type the project Title, while for the Save Path it is advisable to select relative path (Project Properties)
    
    ![projectproperties](images/projectproperties.png)
