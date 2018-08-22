@@ -44,7 +44,7 @@ Is the rendering engine that delivers for example the map images, map legends, a
 
 ## Server Prerequisites
 
-[go back to main page](README.md)
+[back to page top](#web-gis-workshop-materials)
 
 * Software that need to be installed
    * HTTP Server e.g. Apache2
@@ -55,7 +55,7 @@ The version of the Desktop QGIS and the QGIS Server needs to be the same to avoi
  
 ### Installation Documentation
 
-[go back to main page](README.md)
+[back to page top](#web-gis-workshop-materials)
 
 [QGIS Server Installation](https://docs.3liz.com/en/install/windows.html#qgis-server-installation)
 
@@ -67,7 +67,7 @@ To be added.
 
 ## Working with Lizmap Client
 
-[go back to main page](README.md)
+[back to page top](#web-gis-workshop-materials)
 
 The welcome page of the Lizmap Client based webpage is a gallery of all interactive maps residing/ published in one Lizmap repository displaying meta information and screen shots of the maps along with live links to the maps.
 
