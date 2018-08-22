@@ -55,7 +55,7 @@ Is the rendering engine that delivers for example the map images, map legends, a
    
 The version of the Desktop QGIS and the QGIS Server needs to be the same to avoid unexpected (or even not working) results. On Ubuntu for QGIS Server 2.18 LTS the minimum requirement operating system version is [Ubuntu 16 (Xenial Xerus)](http://releases.ubuntu.com/16.04)
  
-### Installation Documentation
+## Installation Documentation
 
 [back to page top](#web-gis-workshop-materials)
 
@@ -63,7 +63,7 @@ The version of the Desktop QGIS and the QGIS Server needs to be the same to avoi
 
 [Lizmap Installation](https://docs.3liz.com/en/install/windows.html)
 
-## Troubleshooting Installation
+### Troubleshooting Installation
 
 * QGISMapserver print did not work
 copied from http://www.itopen.it/qgis-server-setup-notes/
