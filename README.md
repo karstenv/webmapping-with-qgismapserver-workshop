@@ -1,6 +1,4 @@
-# webmapping-with-qgismapserver-workshop
-
-__CCRP Web GIS Workshop Materials__
+# Web GIS Workshop Materials
 
 ## Server Prerequisites
 
