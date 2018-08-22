@@ -14,11 +14,11 @@ Three files are needed to publish a web map using QGIS and Lizmap plugin:
 2. Create a QGIS project
 3. Define Project properties as listed below:
    a. Under project Menu select Project Properties, the Project properties dialog box appears (Project Properties)
-   b. Under General Settings, Type the project Title, while for the Save Path it is advisable to select relative path(Project Properties)
+   b. Under General Settings, Type the project Title, while for the Save Path it is advisable to select relative path (Project Properties)
    
    ![projectproperties](images/projectproperties.png)
 
-   c. For the CRS Settings, enable On-The-Fly CRS Transformation (OTF). Select your preferred CRS. It is advisable to selectWGS84/PseudoMercator if you will use OSM and Google as Baselayer (CRS)
+   c. For the CRS Settings, enable On-The-Fly CRS Transformation (OTF). Select your preferred CRS. It is advisable to selectWGS84/PseudoMercator if you will use OSM and / or Google layers as Baselayer (CRS)
    
   ![crs](images/crs.png)
 
