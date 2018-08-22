@@ -4,6 +4,10 @@
 
 [Adding tools to Lizmap based web maps](tools.md)
 
+[Minimum Settings of a Lizmap based web map](min_settings.md)
+
+[Steps for publishing a Web map](publishing_map.md)
+
 ## Using QGIS - QGIS Server - Lizmap Client
 
 * QGIS Desktop
