@@ -1,5 +1,9 @@
 # Web GIS Workshop Materials
 
+## Table of Content
+
+[Adding tools to Lizmap based web maps](tools.md)
+
 ## Using QGIS - QGIS Server - Lizmap Client
 
 * QGIS Desktop
