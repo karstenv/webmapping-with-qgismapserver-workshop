@@ -32,22 +32,22 @@ Three files are needed to publish a web map using QGIS and Lizmap plugin:
 1. Enable the Lizmap Plugin through following steps; Select Plugins Menu then Manage and Install Plugins, search for the Lizmap plugin and activate it, if not installed yet select the install option.(Plugin 1 & 2)
 2. The following minimum settings have to be done to publish a webmap
 Select Web Menu tab then Lizmap followed by Lizmap, the Lizmap dialog box appears; (Plugin 3) 
-   i. Map Options, for the Map Tools enable: Print, Measure Tool, Zoom History and Automatic Geolocation (Plugin 4) 
-   ii. Select the address Search e.g. Google (Plugin 4) 
-   iii. Set the pop-up click tolerance (Units here are pixels)(Plugin 4) 
-   iv. Under scales, to allow for zooming in and out of the webmap, input a number of specific scales (from the minimum to the maximum zoom level needed)(Plugin 4) 
-   v. Set the Initial Map extent either by using: set from project properties or set from map canvas. (Plugin 4) 
-   vi. Under Layers Option all the layers in the QGIS project are listed, the following settings can be done:
+   * Map Options, for the Map Tools enable: Print, Measure Tool, Zoom History and Automatic Geolocation (Plugin 4) 
+   * Select the address Search e.g. Google (Plugin 4) 
+   * Set the pop-up click tolerance (Units here are pixels)(Plugin 4) 
+   * Under scales, to allow for zooming in and out of the webmap, input a number of specific scales (from the minimum to the maximum zoom level needed)(Plugin 4) 
+   * Set the Initial Map extent either by using: set from project properties or set from map canvas. (Plugin 4) 
+   * Under Layers Option all the layers in the QGIS project are listed, the following settings can be done:
        - Metadata - Title - Type the Layer Title that will appear in the Legend
        - Abstract - this is a brief description of the Layer 
        - Link - give the url for the data source. (Plugin 5) 
        - Legend - check Toggled and display in legend tree. (Plugin 5) 
        - Pop-up - check activate pop-up - so that one can use the ID tool to get more details about the layer on the webmap. (Plugin 5) 
-   vii. BaseLayers - here we select the baselayers that will appear in the background of the published map e.g. OpenStreetmap , Google (this requires a key),etc. (Plugin 6) 
+   * BaseLayers - here we select the baselayers that will appear in the background of the published map e.g. OpenStreetmap , Google (this requires a key),etc. (Plugin 6) 
        - under baselayers options check Add an empty baselayer. (Plugin 6) 
-   viii. Locate by Layer (Plugin 7) 
+   * Locate by Layer (Plugin 7) 
        - at the bottom under layer select a layer and the display field for that layer and add the layer to the list for it to appear in the webmap
-   ix. Attribute Table (Plugin 8) 
+   * Attribute Table (Plugin 8) 
        - at the bottom select the layer and the unique ID and add the layer to the list 
 		
 Click - Apply then Close (Plugin 8) 
