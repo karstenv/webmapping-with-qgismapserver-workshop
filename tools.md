@@ -1,6 +1,6 @@
 # Working with Tools
 
-[go back to main page](read.md)
+[go back to main page](README.md)
 
 ## Adding Tools to Lizmap interactive maps
 
