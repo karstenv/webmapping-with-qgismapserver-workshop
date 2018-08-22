@@ -23,3 +23,7 @@ In QGIS desktop with a loaded map, click on Project Properties/Identify Layers
 ![print1](images/print1.png)
 ![print2](images/print2.png)
 ![print3](images/print3.png)
+
+
+## Data Visualization Tool
+
