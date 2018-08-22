@@ -6,6 +6,12 @@
 
 [Server Prerequisites](#server-prerequisites)
 
+[Installation Documentation](#installation-documentation)
+
+[Troubleshooting Installation](#troubleshooting-installation)
+
+[Working with Lizmap Client](#working-with-lizmap-client)
+
 [Adding tools to Lizmap based web maps](tools.md)
 
 [Adding and working with Data View](dataview.md)
@@ -51,7 +57,7 @@ The version of the Desktop QGIS and the QGIS Server needs to be the same to avoi
 
 [Lizmap Installation](https://docs.3liz.com/en/install/windows.html)
 
-### Trouble shooting Installation
+### Troubleshooting Installation
 
 To be added.
 
