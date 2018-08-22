@@ -1,6 +1,6 @@
-#Working with Tools
+# Working with Tools
 
-#How to add tools in a Lizmap map
+# How to add tools in a Lizmap map
 
 ## Identify + popup tool
 
