@@ -18,3 +18,8 @@ __CCRP Web GIS Workshop Materials__
 [Lizmap Installation](https://docs.3liz.com/en/install/windows.html)
 
 ### Trouble shooting Installation
+
+
+# Working with Lizmap Client
+
+![Lizmap Web map gallery](/images/lizmap_client_gallery.png)
