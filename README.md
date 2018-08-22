@@ -9,5 +9,14 @@ __CCRP Web GIS Workshop Materials__
    * PHP (version 5 or 7)
    * QGIS Server (and related libraries)
    
-[Documentation of QGIS Server Installation]()
-[Documentation Lizmap Installation](https://docs.3liz.com/en/install/windows.html)
+### Undocumented Prerequisites
+
+
+ 
+### Installation Documentation 
+
+[QGIS Server Installation](https://docs.3liz.com/en/install/windows.html#qgis-server-installation)
+
+[Lizmap Installation](https://docs.3liz.com/en/install/windows.html)
+
+### Trouble shooting Installation
