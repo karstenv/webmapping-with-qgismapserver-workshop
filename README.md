@@ -16,7 +16,7 @@
 
 [Adding and working with Data View](dataview.md)
 
-[Minimum Settings of a Lizmap based web map](min_settings.md)
+[Minimum Configuration Settings for a Lizmap based Web Map](min_settings.md)
 
 [Steps for publishing a web map via Lizmap](publishing_map.md)
 
