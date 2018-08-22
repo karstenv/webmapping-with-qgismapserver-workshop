@@ -44,6 +44,8 @@ Is the rendering engine that delivers for example the map images, map legends, a
 
 ## Server Prerequisites
 
+[go back to main page](README.md)
+
 * Software that need to be installed
    * HTTP Server e.g. Apache2
    * PHP (version 5 or 7)
@@ -51,7 +53,9 @@ Is the rendering engine that delivers for example the map images, map legends, a
    
 The version of the Desktop QGIS and the QGIS Server needs to be the same to avoid unexpected (or even not working) results. On Ubuntu for QGIS Server 2.18 LTS the minimum requirement operating system version is [Ubuntu 16 (Xenial Xerus)](http://releases.ubuntu.com/16.04)
  
-### Installation Documentation 
+### Installation Documentation
+
+[go back to main page](README.md)
 
 [QGIS Server Installation](https://docs.3liz.com/en/install/windows.html#qgis-server-installation)
 
@@ -61,7 +65,9 @@ The version of the Desktop QGIS and the QGIS Server needs to be the same to avoi
 
 To be added.
 
-# Working with Lizmap Client
+## Working with Lizmap Client
+
+[go back to main page](README.md)
 
 The welcome page of the Lizmap Client based webpage is a gallery of all interactive maps residing/ published in one Lizmap repository displaying meta information and screen shots of the maps along with live links to the maps.
 
