@@ -2,6 +2,17 @@
 
 [back to main page](read.md)
 
+[create an anchor](#Print-tool) 
+
+[create an anchor](#data-visualization-tool)
+
+[create an anchor](#Locate-by-Layer) 
+
+[create an anchor](#Adding-Base-Layers) 
+
+[create an anchor](#Adding-Measure-Tool) 
+
+
 # How to add tools in a Lizmap map
 
 ## Identify and Popup tool
@@ -13,7 +24,6 @@ In QGIS desktop with a loaded map, click on Project Properties/Identify Layers
 
 ![identify1](images/identify11.png)
 ![identify2](images/identify2.png)
-
 
 ## Print tool
 
@@ -92,7 +102,7 @@ For the prerequisites, see Prerequisite_QGIS_steps
 
 See picture: Tooltip_ steps_on_Lizmap_plugin
 
-### ADDING BASE LAYERS
+### Adding Base Layers
 
 To add base map layers to the map, one needs to have the qgs project
 On the lizmap plugin, select the baselayers tab.
@@ -115,7 +125,7 @@ After selecting the required basemap(s), apply and save edits on the qgs project
 
 ![Basemap2](images/Basemap2.png)
 
-### Adding MEASURE TOOL 
+### Adding Measure Tool
 
 On the Lizmap plugin, select the Map options tab 
 Under the map tools select the measure tool which enables measurement in the map (Length, Area and Perimeter)
