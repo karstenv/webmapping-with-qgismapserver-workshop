@@ -2,16 +2,24 @@
 
 # How to add tools in a Lizmap map
 
-## Identify + popup tool
+## Identify and Popup tool
 
 In QGIS desktop with a loaded map, click on Project Properties/Identify Layers
-Check the layers you want to be used in the web map for identity
-apply and save your work
-after publishing the map on the website, the identity tool (i) appears and when you click it and use it on the map the map features will be identified.
+* Check the layers you want to be used in the web map for identity
+* Apply and save your work
+* After publishing the map on the website, the identity tool (i) appears and when you click it and use it on the map the map features will be identified.
 
-## print tool
+![identify1](images/identify11.png)
+![identify2](images/identify2.png)
 
-add a map layout in QGIS desktop
-open Lizmap window and check the Print box under the maps tool
-apply and save your work
-the print icon appears on the website when the work is published
+
+## Print tool
+
+* Add a map layout in QGIS desktop
+* Open Lizmap window and check the Print box under the maps tool
+* Apply and save your work
+* The print icon appears on the website when the work is published
+
+![print1](images/print1.png)
+![print2](images/print2.png)
+![print3](images/print3.png)
