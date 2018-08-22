@@ -102,13 +102,13 @@ For the prerequisites, see Prerequisite_QGIS_steps
 7.	Click Apply
 
 
-![Enabling Lizamp plugin](images/Enabling Lizamp plugin.png)
+![Enabling Lizamp plugin](images/Enabling_Lizamp_plugin.png)
 
-![locate by layer steps on lizmap](images/locate by layer steps on lizmap.png)
+![locate by layer steps on lizmap](images/locate_by_layer_steps_lizmap.png)
 
 ![Prerequisit_QGIS_steps](images/Prerequisit_QGIS_steps.png)
 
-![Tooltip_ steps_on_Lizmap_plugin](images/Tooltip_ steps_on_Lizmap_plugin.png)
+![Tooltip_ steps_on_Lizmap_plugin](images/Tooltip_steps_on_Lizmap_plugin.png)
 
 See picture: Tooltip_ steps_on_Lizmap_plugin
 
