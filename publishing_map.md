@@ -23,19 +23,19 @@ N/B - The file structure in QGIS client side should be the same as the structure
     - If your data is in a different directory from where the qgis project is, the Liz Map plugin will not launch successfully. In this event, you can use the Qconsolidate plugin to bring together all the layers in the same directory as the qgis project (*.qgs)
 	  However, you will have to restart your qgis project with the updated data directories for Liz Map to launch successfully.
 
-![pub_map_79](pub_map_79.png)
+![pub_map_79](images/pub_map_79.png)
 
-![pub_map_85](pub_map_85.png)
+![pub_map_85](images/pub_map_85.png)
 
-![pub_map_80](pub_map_80.png)
+![pub_map_80](images/pub_map_80.png)
 
-![pub_map_82](pub_map_82.png)
+![pub_map_82](images/pub_map_82.png)
 
-![pub_map_84](pub_map_84.png)
+![pub_map_84](images/pub_map_84.png)
 
-![pub_map_86](pub_map_86.png)
+![pub_map_86](images/pub_map_86.png)
 
-![pub_map_88](pub_map_88.png)
+![pub_map_88](images/pub_map_88.png)
 
-![pub_map_89](pub_map_89.png)
+![pub_map_89](images/pub_map_89.png)
 
