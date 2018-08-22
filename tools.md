@@ -1,16 +1,16 @@
 # Working with Tools
 
-[back to main page](read.md)
+[go back to main page](read.md)
 
-[create an anchor](#Print-tool) 
+[Print Tool](#print-tool) 
 
-[Data Viz](#data-visualization-tool)
+[Data Vizualization Tool](#data-visualization-tool)
 
-[create an anchor](#Locate-by-Layer) 
+[Locate by Layer Tool](#locate-by-layer) 
 
-[create an anchor](#Adding-Base-Layers) 
+[Adding Base Layers](#adding-base-layers) 
 
-[create an anchor](#Adding-Measure-Tool) 
+[Adding Measure Tool](#adding-measure-tool) 
 
 
 # How to add tools in a Lizmap map
