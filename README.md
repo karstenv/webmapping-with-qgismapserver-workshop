@@ -6,7 +6,7 @@
 
 [Minimum Settings of a Lizmap based web map](min_settings.md)
 
-[Steps for publishing a Web map](publishing_map.md)
+[Steps for publishing a web map via Lizmap](publishing_map.md)
 
 ## Using QGIS - QGIS Server - Lizmap Client
 
