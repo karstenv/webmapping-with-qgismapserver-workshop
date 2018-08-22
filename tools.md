@@ -2,6 +2,8 @@
 
 [go back to main page](read.md)
 
+## Adding Tools to Lizmap interactive maps
+
 [Print Tool](#print-tool) 
 
 [Data Vizualization Tool](#data-visualization-tool)
