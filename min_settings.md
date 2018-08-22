@@ -15,10 +15,16 @@ Three files are needed to publish a web map using QGIS and Lizmap plugin:
 3. Define Project properties as listed below:
    a. Under project Menu select Project Properties, the Project properties dialog box appears (Project Properties)
    b. Under General Settings, Type the project Title, while for the Save Path it is advisable to select relative path(Project Properties)
+   
+   ![projectproperties](images/projectproperties.png)
+
    c. For the CRS Settings, enable On-The-Fly CRS Transformation (OTF). Select your preferred CRS. It is advisable to selectWGS84/PseudoMercator if you will use OSM and Google as Baselayer (CRS)
+   
+  ![crs](images/crs.png)
+
   d. OWS Server settings:
   
-![ows_1](images/ows_1.png)
+  ![ows_1](images/ows_1.png)
 
 - Enable service capabilities and fill in the required information e.g the Short Name, Title (This is what appears on the web map after publishing). (OWS - 1)
 - Under WMS Capabilities, enable Advertised Extents and CRS Restrictions (OWS - 1)
@@ -32,8 +38,8 @@ Three files are needed to publish a web map using QGIS and Lizmap plugin:
   NOTE: - Common bugs that need to be fixed here include, conflicting layer names and the Data Source Encoding where UTF8 is recommended
 - These settings are saved in the *.qgs file
 
-
-		
+![ows_3](images/ows_3.png)
+	
 ### LIZMAP PLUGIN SETTINGS
 
 1. Enable the Lizmap Plugin through following steps; Select Plugins Menu then Manage and Install Plugins, search for the Lizmap plugin and activate it, if not installed yet select the install option.(Plugin 1 & 2)
@@ -86,10 +92,3 @@ the above generates a *.cfg file (the lizmap configuration file)
 
 A preview of the map is also needed when publishing a webmap, this comes in the form of a *.png file
 Simple take a screen shot of the map and crop it in paint then save as ProjectName.qgs.png
-
-![ows_3](images/ows_3.png)
-
-![projectproperties](images/projectproperties.png)
-
-![crs](images/crs.png)
-
