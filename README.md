@@ -22,6 +22,9 @@
 
 [Steps for publishing a web map via Lizmap](publishing_map.md)
 
+[Restrictions and prerequisites publishing a map](restrictions_prerequisites.md)
+
+
 [Tips and tricks](notes.md)
 
 [Troubleshooting, debugging no show maps](troubleshooting.md)
