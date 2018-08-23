@@ -72,7 +72,43 @@ Figure18
 The layers have a sequence, the top most layer should be point formats eg towns etc. below should be line formats eg roads, rivers etc. but you will notice that trunk roads are placed first, followed by the major roads then tracks or footpaths. A river should always be below the road and if there is a railway line then this should come before the roads. Polygon features come below the line features. When you are done with your layers you make a layout b clicking on the project in the main menue then scroll to new print composer then a small window opens where you type the map name then click ok and a bigger window opens.
 Set your page size then click on add newmap icon to then draw a rectangle on the window and the map appears. Set your map and legend properties by adjusting the sizes, colour etc on the item and item properties on your right of the composer. The layers have formed a map and you can save it as a jpeg, png etc for printing.
 
-Figure19
+![figure1](images/figure1.png)
+
+![figure2](images/figure2.png)
+
+![figure3](images/figure3.png)
+
+![figure4](images/figure4.png)
+
+![figure5](images/figure5.png)
+
+![figure6](images/figure6.png)
+
+![figure7](images/figure7.png)
+
+![figure8](images/figure8.png)
+
+![figure9](images/figure9.png)
+
+![figure10](images/figure10.png)
+
+![figure11](images/figure11.png)
+
+![figure12](images/figure12.png)
+
+![figure13](images/figure13.png)
+
+![figure14](images/figure14.png)
+
+![figure15](images/figure15.png)
+
+![figure16](images/figure16.png)
+
+![figure17](images/figure17.png)
+
+![figure18](images/figure18.png)
+
+![figure19](images/figure19.png)
 
 Layout map 
 
