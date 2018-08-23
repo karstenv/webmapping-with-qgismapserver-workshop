@@ -24,8 +24,7 @@
 
 [Restrictions and prerequisites publishing a map](restrictions_prerequisites.md)
 
-
-[Tips and tricks](notes.md)
+[Tips, tricks and details working with QGIS](notes.md)
 
 [Troubleshooting, debugging no show maps](troubleshooting.md)
 
