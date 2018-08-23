@@ -14,6 +14,7 @@
 
 [Adding Measure Tool](#adding-measure-tool) 
 
+[Adding and working with Data View](dataview.md)
 
 # How to add tools in a Lizmap map
 
