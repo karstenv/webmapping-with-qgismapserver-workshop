@@ -4,6 +4,8 @@
 
 ## Adding Tools to Lizmap interactive maps
 
+[How to add an overview Map](#how-to-add-an-overview-map)
+
 [Print Tool](#print-tool) 
 
 [Data Vizualization Tool](#data-visualization-tool)
