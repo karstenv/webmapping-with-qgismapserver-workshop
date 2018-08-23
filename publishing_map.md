@@ -76,5 +76,17 @@ __Important note:__
 
 The relative path of where your data layers are saved in relation to your Qgis project should be maintained even on the server side. If not, your map will not display any data.
 
+![inkedscreenshot_95](images/inkedscreenshot_95.jpg)
 
+![inkedscreenshot_96](images/inkedscreenshot_96.jpg)
+
+![screenshot_100](images/screenshot_100.png)
+
+![screenshot_94](images/screenshot_94.png)
+
+![screenshot_97](images/screenshot_97.png)
+
+![screenshot_98](images/screenshot_98.png)
+
+![screenshot_99](images/screenshot_99.png)
 
