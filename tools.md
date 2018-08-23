@@ -35,6 +35,8 @@ In QGIS desktop with a loaded map, click on Project Properties/Identify Layers
 
 ## How to add an overview Map
 
+[back to page top](#working-with-tools)
+
 To add an overview map in a Lizmap map, one should:
 
 · Create an independent group of layer  in the QGIS project layer panel called Overview (with the 1st letter capitalized)
