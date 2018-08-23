@@ -30,6 +30,24 @@ In QGIS desktop with a loaded map, click on Project Properties/Identify Layers
 ![identify1](images/identify11.png)
 ![identify2](images/identify2.png)
 
+
+## How to add an overview Map
+
+To add an overview map in a Lizmap map, one should:
+
+· Create an independent group of layer  in the QGIS project layer panel called Overview (with the 1st letter capitalized)
+
+· Add layers, for example a layer of Kenya or Counties, a lighter terrain base layer, etc.
+All layers and groups in the Overview group will not be shown in the lizmaps map legend.
+
+They are drawn only in the Overview map.
+
+![overviewscreenshot1](images/overviewscreenshot1.png)
+
+![overviewscreenshot2](images/overviewscreenshot2.png)
+
+![overviewscreenshot3](images/overviewscreenshot3.png)
+
 ## Print tool
 
 [back to page top](#working-with-tools)
