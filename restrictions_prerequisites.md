@@ -1,5 +1,7 @@
 ## Restrictions/ Prerequisites for Publishing Maps with Lizmap
 
+[go back to main page](README.md)
+
 * The QGIS project file (qgs) , the Lizmap configuration file (*.cfg) and the optional screen shot (*.png) need to be saved into the same directory on the server (the Lizmap Client Repository). The GIS data need to be saved into a layer directory adjacent to these files or into a subdiretory below (relative to the directory the QGIS project '*.qgs' file is located). 
 
 * QGIS projects must be set to use relative paths.
