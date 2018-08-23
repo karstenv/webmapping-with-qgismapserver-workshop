@@ -2,6 +2,10 @@
 
 [go back to main page](README.md)
 
+[Configuration of Server and copying Data to the Server](#configuration-of-server-and-copying-data-to-the-server)
+
+[Server Side](#server-side)
+
 ## QGIS DESKTOP (Client Side)
 
 - Prepare a qgis project and do the required styling.
